@@ -2,6 +2,7 @@ from tkinter import *
 import random
 from PIL import Image, ImageTk
 
+
 # main window creation
 
 window = Tk()
